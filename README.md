@@ -1,6 +1,6 @@
 ## Olá pessoas 👋
 
-[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=social&logo=dev.to&logoColor=black)](https://dev.to/Rael96)[![followersGit](https://img.shields.io/github/followers/Rael96?style=social)](https://github.com/Rael96) <img src="https://komarev.com/ghpvc/?username=Rael96&label=Profile%20views&color=0e75b6&style=social" alt="Israel Oliveira Rodrigues" /> [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/israelrodriguess/) 
+[![followersGit](https://img.shields.io/github/followers/Rael96?style=social)](https://github.com/Rael96) <img src="https://komarev.com/ghpvc/?username=Rael96&label=Profile%20views&color=0e75b6&style=social" alt="Israel Oliveira Rodrigues" /> [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/israelrodriguess/) 
 
 Me chamo Israel Rodrigues, tenho 25 anos de idade. 
 
