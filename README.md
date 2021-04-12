@@ -13,3 +13,7 @@ Atualmente estou iniciando uma carreira na área de tecnologia com foco no Desen
 Vamos trocar figurinhas? 😊
 
 📲 Telefone: (11) 99155-0464 | ✉️ E-mail: israeloliveira77@gmail.com
+
+## Meu Status no GitHub
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rael96&show_icons=true&locale=en" alt="Israel Oliveira Rodrigues />
