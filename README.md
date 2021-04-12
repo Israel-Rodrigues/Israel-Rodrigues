@@ -2,6 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Rael96&label=Profile%20views&color=0e75b6&style=social" alt="Israel Oliveira Rodrigues" /> [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/israelrodriguess/) 
 
+Me chamo Israel Rodrigues, tenho 25 anos de idade. 
 
 Graduando em Gestão de Tecnologia da Informação pela FATEC (2022) e técnico em Redes de Computadores pelo SENAI (2016) com certificações em Fundamentos do Scrum (SCRUMstudy) e IT Essentials pela Cisco.
 
