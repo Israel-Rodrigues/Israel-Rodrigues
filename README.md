@@ -14,6 +14,8 @@ Vamos trocar figurinhas? 😊
 
 📲 Telefone: (11) 99155-0464 | ✉️ E-mail: israeloliveira77@gmail.com
 
+*“Seu trabalho vai ocupar uma grande parte da sua vida, e a única maneira de estar verdadeiramente satisfeito é fazendo aquilo que você acredita ser um ótimo trabalho. E a única maneira de fazer um ótimo trabalho, é fazendo o que você ama fazer.” - Steve Jobs.*
+
 ## Meu Status no GitHub
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rael96&show_icons=true&locale=en" alt="Israel Oliveira Rodrigues"/>
