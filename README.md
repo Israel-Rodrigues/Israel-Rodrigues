@@ -1,6 +1,6 @@
 ## Olá pessoas 👋
 
-<img src="https://komarev.com/ghpvc/?username=Rael96&label=Profile%20views&color=0e75b6&style=social" alt="Israel Oliveira Rodrigues" /> [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/israelrodriguess/) 
+<img src="https://komarev.com/ghpvc/?username=Rael96&label=Profile%20views&color=0e75b6&style=social" alt="Israel Oliveira Rodrigues" /> <img src="https://komarev.com/ghpvc/?username=Rael96&label=Profile%20views&color=0e75b6&style=social" alt="Israel Oliveira Rodrigues" /> [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/israelrodriguess/) 
 
 Me chamo Israel Rodrigues, tenho 25 anos de idade. 
 
