@@ -18,4 +18,4 @@ Vamos trocar figurinhas? 😊
 
 ## Meu Status no GitHub
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rael96&show_icons=true&locale=en" alt="Israel Oliveira Rodrigues"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Israel-Rodrigues&show_icons=true&locale=en" alt="Israel Oliveira Rodrigues"/>
