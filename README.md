@@ -4,7 +4,7 @@
 
 Me chamo Israel Rodrigues, tenho 25 anos de idade. 
 
-Graduando em Gestão de Tecnologia da Informação pela FATEC (2022) e técnico em Redes de Computadores pelo SENAI (2016) com certificações em Fundamentos do Scrum (SCRUMstudy) e IT Essentials pela Cisco.
+Graduando em Desenvolvimento de Jogos Digitais pela FATEC (2022) e técnico em Redes de Computadores pelo SENAI (2016) com certificações em Fundamentos do Scrum (SCRUMstudy) e IT Essentials pela Cisco.
 
 Profissional com 5 anos de experiência em Service Desk, onde destaco um case de sucesso. Diante de um cenário de alto turnover na equipe, fui responsável pelo mapeamento dos processos e atividades para continuidade do projeto, bem como o desenvolvimento dos procedimentos para cada atividade.
 
